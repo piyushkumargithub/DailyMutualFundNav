@@ -1,0 +1,11 @@
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\DailyMutualFundNAV.exe
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\DailyMutualFundNAV.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\DailyMutualFundNAV.deps.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\DailyMutualFundNAV.runtimeconfig.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\DailyMutualFundNAV.pdb
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\DailyMutualFundNAV\DailyMutualFundNAV\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
